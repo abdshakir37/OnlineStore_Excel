@@ -23,6 +23,15 @@
   - Highest reveune was made by North America (£36.8k).
 - **Payment Method:**
   - Most preferred payment method was through Credit Card, with 120 transactions.
+ 
+#### 2. Recommendations
+
+1. **Electronics** should be a focus, with efforts aimed at stabilizing sales through targeted promotions and increased visibility to counter the observed decline.
+2. **Top-selling items** like the Macbook Pro and Canon EOS Camera could benefit from enhanced marketing strategies to drive further sales.
+3. **Seasonal promotions** might help address the revenue dip from January to February, potentially boosting sales during slower months.
+4. **Home Appliances** could be expanded or introduced in new variations, leveraging its strong performance and stability.
+5. **North America** could be further targeted for growth, using successful strategies from this region as a model for other areas.
+6. **Credit card payment methods** should be optimized, ensuring a smooth transaction process and possibly introducing incentives to enhance customer experience.
 
  
 
