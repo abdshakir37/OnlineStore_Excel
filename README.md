@@ -1,11 +1,11 @@
 # OnlineStore Dashboard
 
 #### 1. Key Objectives
-- **Monthly Revenue Trend
-- **Top Category by Revenue
-- **Best-Selling Items
-- **Top Region by Revenue
-- **Most Preferred Payment Method.
+- Monthly Revenue Trend
+- Top Category by Revenue
+- Best-Selling Items
+- Top Region by Revenue
+- Most Preferred Payment Method.
 
 #### 2. Data Analysis and Findings
 ![Screenshot (83)](https://github.com/user-attachments/assets/a33a3773-be8a-412d-986b-d9ec300ed552)
