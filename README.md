@@ -1,4 +1,4 @@
-# OnlineStore Dashboard
+# NovaNest Online Store Dashboard
 
 #### 1. Key Objectives
 - Monthly Revenue Trend
